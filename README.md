@@ -1,7 +1,7 @@
 # Stocks-vs-Housing
 How are the stock market and housing costs related?
 
-![Stocks vs Cribs](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS22eEbCxfjBn3cobw04MFxGgGZNfTIFcaRupBNf8LWxAfpznBA&usqp=CAU)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Introduction
 
